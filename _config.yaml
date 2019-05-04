@@ -1,0 +1,4 @@
+
+baseurl: '/WearableChapter'
+include: ['_pages']
+excerpt_separator: <!--more-->
